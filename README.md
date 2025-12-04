@@ -43,5 +43,4 @@ python tests/stress_tests.py
 python benchmarks/benchmark_phase2_vs_phase3.py
 ```
 
-You can upload this code to a GitHub repository named something like:
-`project-phase-3` and include the link in your Phase 3 report.
+
